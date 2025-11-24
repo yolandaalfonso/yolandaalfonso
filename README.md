@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yolanda</h1>
-<h3 align="center">Full Stack Web Developer in Asturias</h3>
+<h3 align="center">Full Stack Web Developer</h3>
 
 - 🔭 I’m currently working on **my final project: a full stack application with Spring Boot and React, applying agile methodologies (SCRUM) and good development practices**
 
